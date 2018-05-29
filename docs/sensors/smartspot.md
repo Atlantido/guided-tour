@@ -79,7 +79,7 @@ find further information in the following link:
 
       $ git checkout tags/v3.0-rc1
 
-      $ git submodule update –init
+      $ git submodule update --init
       ```
    
       Every time you restart your PC you will need to define the IDF\ \_PATH by
